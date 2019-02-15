@@ -1,4 +1,8 @@
 body {
     background-color: lightseagreen;
-    color: black
+    color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
 }
+
