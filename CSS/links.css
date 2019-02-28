@@ -3,7 +3,7 @@ body {
     color: black;
 }
 
-nav a {
+nav a:hover {
     text-decoration: none;
     padding: 10px;
     font-weight: bold;
