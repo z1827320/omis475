@@ -13,7 +13,7 @@ a:hover {
 
 a:visited {
     text-decoration: none;
-    color: white;
+    color: grey;
     background-color: blue;
 }
 
