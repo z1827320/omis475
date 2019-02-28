@@ -1,7 +1,7 @@
 body {
     background-color: white;
     color: black;
-    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 a:hover {
@@ -13,4 +13,8 @@ a:hover {
 a:active {
     text-decoration: none;
     color: gray;
+}
+
+p {
+    font-size: 18px;
 }
