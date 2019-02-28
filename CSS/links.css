@@ -8,11 +8,13 @@ a:hover {
     text-decoration: none;
     padding: 10px;
     color: black;
+    background-color: yellow;
 }
 
 a:visited {
     text-decoration: none;
-    color: gray;
+    color: white;
+    background-color: blue;
 }
 
 a:link {
