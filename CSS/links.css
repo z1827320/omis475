@@ -1,0 +1,27 @@
+body {
+    background-color: beige;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:hover {
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    background-color: yellow;
+}
+
+a:visited {
+    text-decoration: none;
+    color: grey;
+    background-color: white
+}
+
+a:link {
+    text-decoration: none;
+    background-color: white;
+}
+
+ul {
+    list-style-type: none;
+}
