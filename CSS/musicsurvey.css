@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, 'Times New Roman';
+    font-size: 12pt;
+}
+
+form {
+    background-color: lightgray;
+}
+
+legend {
+    font-weight: bold;
+}
+
+input {
+    font-weight: bold;
+}
+
+label {
+    font-weight: bold;
+}
+
+option {
+    font-family: Georgia, 'Times New Roman';
+    font-size: 12pt;
+}
+
+footer {
+    font-family: Georgia, 'Times New Roman';
+    font-size: 12pt;
+}
